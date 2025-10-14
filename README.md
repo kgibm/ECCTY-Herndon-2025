@@ -1,1 +1,1 @@
-# ECCTY-Herndon-2025
+# ECCTY 2025 - Herndon, Virginia
