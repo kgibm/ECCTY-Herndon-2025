@@ -13,22 +13,18 @@ Herndon, Virginia
 
 **Joining by Teams:**  
 
-  - Wednesday, October 29th, 2025
+  - Tuesday, October 21st, 2025
   
-    [https://TBD](https://TBD)
+    [https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWJhNzI1MTgtMDdmNS00MTk5LWJkYzgtZjhhZGEzMzNiMDUy%40thread.v2/0?context=%7b%22Tid%22%3a%22fcf67057-50c9-4ad4-98f3-ffca64add9e9%22%2c%22Oid%22%3a%22032fe1c2-0d93-4bc9-a2a7-78f02b6f9e11%22%7d](https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWJhNzI1MTgtMDdmNS00MTk5LWJkYzgtZjhhZGEzMzNiMDUy%40thread.v2/0?context=%7b%22Tid%22%3a%22fcf67057-50c9-4ad4-98f3-ffca64add9e9%22%2c%22Oid%22%3a%22032fe1c2-0d93-4bc9-a2a7-78f02b6f9e11%22%7d)
 
     <br/> 
 
-  - Thursday, October 30, 2025
+  - Wednesday, October 22nd, 2025
 
-    [https://TBD](https://TBD)
+    [https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWJhNzI1MTgtMDdmNS00MTk5LWJkYzgtZjhhZGEzMzNiMDUy%40thread.v2/0?context=%7b%22Tid%22%3a%22fcf67057-50c9-4ad4-98f3-ffca64add9e9%22%2c%22Oid%22%3a%22032fe1c2-0d93-4bc9-a2a7-78f02b6f9e11%22%7d](https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWJhNzI1MTgtMDdmNS00MTk5LWJkYzgtZjhhZGEzMzNiMDUy%40thread.v2/0?context=%7b%22Tid%22%3a%22fcf67057-50c9-4ad4-98f3-ffca64add9e9%22%2c%22Oid%22%3a%22032fe1c2-0d93-4bc9-a2a7-78f02b6f9e11%22%7d)
 
 
 ---------------------------------------
-
-<!--
-[Survey - Please provide your feedback!](https://www.surveygizmo.com/s3/7050751/2022-IBM-Expertise-Connect-Comes-to-You-Seminar-Herndon-VA)
--->
 
 **ECCTY 2025 Agenda** 
 
