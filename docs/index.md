@@ -14,11 +14,11 @@ Herndon, Virginia
 **Joining by Teams:**  
 
   - Tuesday, October 21st, 2025
-      - General: [https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWJhNzI1MTgtMDdmNS00MTk5LWJkYzgtZjhhZGEzMzNiMDUy%40thread.v2/0?context=%7b%22Tid%22%3a%22fcf67057-50c9-4ad4-98f3-ffca64add9e9%22%2c%22Oid%22%3a%22032fe1c2-0d93-4bc9-a2a7-78f02b6f9e11%22%7d](https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWJhNzI1MTgtMDdmNS00MTk5LWJkYzgtZjhhZGEzMzNiMDUy%40thread.v2/0?context=%7b%22Tid%22%3a%22fcf67057-50c9-4ad4-98f3-ffca64add9e9%22%2c%22Oid%22%3a%22032fe1c2-0d93-4bc9-a2a7-78f02b6f9e11%22%7d)
-      - DB2 @ 1:30PM: [https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDA0NDU1MzEtZDRlYi00ZTM1LWE0NzYtNWQ5M2NiZWNkZjg0%40thread.v2/0?context=%7b%22Tid%22%3a%22fcf67057-50c9-4ad4-98f3-ffca64add9e9%22%2c%22Oid%22%3a%22032fe1c2-0d93-4bc9-a2a7-78f02b6f9e11%22%7d](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDA0NDU1MzEtZDRlYi00ZTM1LWE0NzYtNWQ5M2NiZWNkZjg0%40thread.v2/0?context=%7b%22Tid%22%3a%22fcf67057-50c9-4ad4-98f3-ffca64add9e9%22%2c%22Oid%22%3a%22032fe1c2-0d93-4bc9-a2a7-78f02b6f9e11%22%7d)
+      - [General session](https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWJhNzI1MTgtMDdmNS00MTk5LWJkYzgtZjhhZGEzMzNiMDUy%40thread.v2/0?context=%7b%22Tid%22%3a%22fcf67057-50c9-4ad4-98f3-ffca64add9e9%22%2c%22Oid%22%3a%22032fe1c2-0d93-4bc9-a2a7-78f02b6f9e11%22%7d)
+      - [DB2 @ 1:30PM](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDA0NDU1MzEtZDRlYi00ZTM1LWE0NzYtNWQ5M2NiZWNkZjg0%40thread.v2/0?context=%7b%22Tid%22%3a%22fcf67057-50c9-4ad4-98f3-ffca64add9e9%22%2c%22Oid%22%3a%22032fe1c2-0d93-4bc9-a2a7-78f02b6f9e11%22%7d)
 
   - Wednesday, October 22nd, 2025
-      - General: [https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWJhNzI1MTgtMDdmNS00MTk5LWJkYzgtZjhhZGEzMzNiMDUy%40thread.v2/0?context=%7b%22Tid%22%3a%22fcf67057-50c9-4ad4-98f3-ffca64add9e9%22%2c%22Oid%22%3a%22032fe1c2-0d93-4bc9-a2a7-78f02b6f9e11%22%7d](https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWJhNzI1MTgtMDdmNS00MTk5LWJkYzgtZjhhZGEzMzNiMDUy%40thread.v2/0?context=%7b%22Tid%22%3a%22fcf67057-50c9-4ad4-98f3-ffca64add9e9%22%2c%22Oid%22%3a%22032fe1c2-0d93-4bc9-a2a7-78f02b6f9e11%22%7d)
+      - [General session](https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWJhNzI1MTgtMDdmNS00MTk5LWJkYzgtZjhhZGEzMzNiMDUy%40thread.v2/0?context=%7b%22Tid%22%3a%22fcf67057-50c9-4ad4-98f3-ffca64add9e9%22%2c%22Oid%22%3a%22032fe1c2-0d93-4bc9-a2a7-78f02b6f9e11%22%7d)
 
 
 ---------------------------------------
