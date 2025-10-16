@@ -35,12 +35,6 @@ Herndon, Virginia
 [Click here for the agenda PDF](resources/2025 ECCTY Presentation - Agenda Only -101625.pdf)
 
 
-**Shared with attendees**
-
-[https://ibm.box.com/v/ECCTY-Herndon-shared](https://ibm.box.com/v/ECCTY-Herndon-shared)
- 
-
-
 **Feedback Survey**
 
 [Survey - Please provide your feedback!](https://TBD)
