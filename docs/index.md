@@ -3,7 +3,7 @@
 ![](images/techjam.png)
 
 
-**October 29 - October 30** 
+**October 21st - October 22nd** 
 
 8:00 AM USA EDT to 5:00 PM USA EDT
 
@@ -37,7 +37,7 @@ Herndon, Virginia
 
 **Feedback Survey**
 
-[Survey - Please provide your feedback!](https://TBD)
+[Feedback Survey (Online survey only for NFCU – Others will be provided Hard Copy)](https://your.feedback.ibm.com/jfe/form/SV_6AwtyhtdIDzePCC?Q_CHL=qr)
 
 
 **Hands on Activities**
