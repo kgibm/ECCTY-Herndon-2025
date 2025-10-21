@@ -10,3 +10,5 @@
 ### IBM MQ Labs
 
 * [MQ Lab: Setting up Sender Receiver configuration with MQ Ansible](resources/Setting%20up%20a%20Sender%20Receiver%20Configuration%20with%20MQ%20Ansible.pdf)
+* [A quick guide to installing IBM MQ using Ubuntu Linux and Ansible Galaxy](resources/A%20quick%20guide%20to%20installing%20IBM%20MQ%20using%20Ubuntu%20Linux%20and%20Ansible%20Galaxy.pdf)
+* [Get an IBM MQ queue for development running on AWS Cloud using Ansible](https://developer.ibm.com/tutorials/mq-connect-app-queue-manager-cloud-aws-ansible/)
